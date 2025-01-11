@@ -1,0 +1,15 @@
+mphasis prepare
+
+project 1 - 1
+project 2 - 1
+dialy 1 hour for aptitude
+oops - 1
+dsa - 1
+java - 1
+python - 1
+software engineering  & os - 1
+sql dialy 2 hours
+communication  dialy 30 mins
+revision for 2-3 days
+sql question - 1
+
